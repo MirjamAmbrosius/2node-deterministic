@@ -1,0 +1,8 @@
+method 2
+nodemethod 2
+mipgap 1e-8
+names 0
+threads 6
+*usebasis 0
+*rerun 1
+*iis 1
